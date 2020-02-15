@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileRenamer": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Users\\dbednar\\Videos\\Raw Recess\\Recess\""
+    }
+  }
+}
